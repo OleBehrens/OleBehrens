@@ -1,5 +1,5 @@
 ### Hi there!
-My name is Ole and i'm a unit director at hmmh. My unit is a very technical driven team with an agile mindset and passion for individual software. We are framework-agnostic and embrace technological diversity!
+My name is Ole, i'm a software engineer and in addition unit director at hmmh. My unit is a very technical driven team with an agile mindset and passion for individual software. We are framework-agnostic and embrace technological diversity!
 
 [![passion for development](https://github.com/OleBehrens/OleBehrens/blob/main/src/img/csm_LinkedIn_Profilheader_Thema_Beispiel_7900bf1345.png)](https://www.hmmh.de/en/services/e-commerce-solutions)
 

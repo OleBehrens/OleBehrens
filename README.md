@@ -4,7 +4,7 @@ My name is Ole and i'm a unit director at hmmh. My unit is a very technical driv
 ![passion for development](https://github.com/OleBehrens/OleBehrens/blob/main/src/img/csm_LinkedIn_Profilheader_Thema_Beispiel_7900bf1345.png)
 
 If you're interested in our work, feel free to drop by.
-[hmmh - leading in connected commerce](https://karriere.hmmh.de/en/)) "hmmh")
+[hmmh - leading in connected commerce](https://karriere.hmmh.de/en/ "hmmh")
 <!--
 **OleBehrens/OleBehrens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

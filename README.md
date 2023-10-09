@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there!
+My name is Ole and i'm a unit director at hmmh. My unit is a very technical driven team with an agile mindset and passion for individual software. We are framework-agnostic and embrace technological diversity!
+
 
 <!--
 **OleBehrens/OleBehrens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
